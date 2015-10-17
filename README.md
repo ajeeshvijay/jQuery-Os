@@ -1,2 +1,2 @@
 # jQuery-Os
-A simple design ui like an OS using the great jQuery.
+A simple design ui like as an OS, using the great jQuery.
